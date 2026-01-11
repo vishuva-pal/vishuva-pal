@@ -1,6 +1,6 @@
 # 🪳 Vishuva Pandi
 
-**`Data Engineer (Developer/Independent Researcher)`**
+**`Data Engineer (Developer/Independent Researcher)`** ![](https://komarev.com/ghpvc/?username=vishuva-pal)
 
 <!-- A bit about what I do? -->
   - 🔭 I’m a Data Engineer with 3+ Years of Experience in Data analysis & building scalable data pipelines.

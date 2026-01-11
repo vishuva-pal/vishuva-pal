@@ -5,7 +5,7 @@
 <!-- A bit about what I do? -->
   - 🔭 I’m a Data Engineer with 3+ Years of Experience in Data analysis & building scalable data pipelines.
     
-  - 🔭 I’m an IT Graduate Student from University of Massachusetts Boston (Wicket Smaat it is!)
+  - 🔭 I’m an IT Graduate Student from University of Massachusetts Boston (Wicked Smaat it is 🇺🇸🦞⚓️)
 
   - 🌱 Visit my [Portfolio](https://vishuva-pal.github.io/personal-portfolio/)
   

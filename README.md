@@ -1,9 +1,9 @@
 # 🪳 Vishuva Pandi
 
-**`Data Engineer (Developer/Independent Researcher)`** ![](https://komarev.com/ghpvc/?username=vishuva-pal)
+**`Software Engineer (Developer/Independent Researcher)`** ![](https://komarev.com/ghpvc/?username=vishuva-pal)
 
 <!-- A bit about what I do? -->
-  - 🔭 I’m a Data Engineer with 3+ Years of Experience in Data analysis & building scalable data pipelines.
+  - 🔭 I’m a Software Engineer with 3+ Years of Experience in Data Reporting, analysis & building scalable data pipelines.
     
   - 🔭 I’m an IT Graduate Student from University of Massachusetts Boston (Wicked Smaat it is 🇺🇸🦞⚓️)
 
@@ -32,6 +32,7 @@
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />

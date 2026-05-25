@@ -1,19 +1,19 @@
 # 🪳 Vishuva Pandi
 
-**`Software Engineer (Developer/Independent Researcher)`** ![](https://komarev.com/ghpvc/?username=vishuva-pal)
+**`Software Engineer (Data Platform/ ERP Architect)`** ![](https://komarev.com/ghpvc/?username=vishuva-pal)
 
 <!-- A bit about what I do? -->
   - 🔭 I’m a Software Engineer with 3+ Years of Experience in Data Reporting, analysis & building scalable data pipelines.
     
   - 🔭 I’m an IT Graduate Student from University of Massachusetts Boston (Wicked Smaat it is 🇺🇸🦞⚓️)
 
-  - 🌱 Visit my [Portfolio](https://vishuva-pal.github.io/personal-portfolio/)
+  - 🌱 Visit my [Portfolio](https://vishuva-pal.github.io/erp-portfolio-source/#/)
   
   - 👯 I’m looking for Internship Opportunities to expand my knowledge and network.
 
   - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/vishuva-pal)
 
-  - 📫 How to reach me **vishuvapandi.p@gmail.com**
+  - 📫 How to reach me **vishuvapandi@gmail.com**
 
 <!--  - ⚡ Fun fact  ![](https://komarev.com/ghpvc/?username=xx&style=for-the-badge) -->
 

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-label="Four-drawer filing cabinet, top drawer open showing manila project folders">
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B2018"/>
+      <stop offset="0.18" stop-color="#4A3B28"/>
+      <stop offset="0.72" stop-color="#3A2E20"/>
+      <stop offset="1" stop-color="#211A11"/>
+    </linearGradient>
+    <linearGradient id="drawer" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#57462F"/>
+      <stop offset="0.14" stop-color="#3A2E20"/>
+      <stop offset="1" stop-color="#2B2018"/>
+    </linearGradient>
+    <linearGradient id="manila" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8C889"/>
+      <stop offset="1" stop-color="#C9A461"/>
+    </linearGradient>
+    <filter id="cdrop" x="-15%" y="-15%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="8" stdDeviation="8" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="400" fill="#140F0A"/>
+  <rect x="0" y="382" width="900" height="18" fill="#1B1510"/>
+  <line x1="0" y1="382" x2="900" y2="382" stroke="#3A2E20" stroke-width="2"/>
+  <ellipse cx="450" cy="384" rx="215" ry="9" fill="#000" opacity="0.5"/>
+  <ellipse cx="108" cy="383" rx="62" ry="7" fill="#000" opacity="0.45"/>
+
+  <!-- body -->
+  <g filter="url(#cdrop)">
+    <rect x="250" y="22" width="400" height="350" rx="6" fill="url(#steel)"/>
+  </g>
+  <rect x="250" y="22" width="400" height="350" rx="6" fill="none" stroke="#6B563A" stroke-width="1.5"/>
+  <rect x="250" y="22" width="400" height="7" rx="3" fill="#6B563A" opacity="0.5"/>
+
+  <!-- open top drawer with folders -->
+  <g>
+    <rect x="196" y="46" width="454" height="96" rx="4" fill="#1B1510"/>
+    <g fill="url(#manila)" stroke="#8A6B33" stroke-width="1">
+      <path d="M212 74 h100 l10 -14 h56 l10 14 h96 v66 h-272 z"/>
+      <path d="M232 86 h100 l10 -14 h56 l10 14 h96 v54 h-272 z" opacity="0.94"/>
+      <path d="M252 98 h100 l10 -14 h56 l10 14 h96 v42 h-272 z" opacity="0.88"/>
+    </g>
+    <g font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" font-size="11" fill="#5A431B" letter-spacing="1">
+      <text x="330" y="70">ERP</text>
+      <text x="350" y="82">WAREHOUSE</text>
+      <text x="370" y="94">SUPPLY CHAIN</text>
+    </g>
+    <rect x="196" y="132" width="454" height="16" rx="3" fill="url(#drawer)"/>
+    <rect x="386" y="136" width="74" height="8" rx="4" fill="#8A7A5E"/>
+  </g>
+
+  <!-- three closed drawers -->
+  <g font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace">
+    <g>
+      <rect x="264" y="162" width="372" height="66" rx="4" fill="url(#drawer)" stroke="#6B563A" stroke-width="1"/>
+      <rect x="284" y="176" width="150" height="26" rx="2" fill="url(#manila)" stroke="#8A6B33" stroke-width="1"/>
+      <text x="292" y="194" font-size="12" fill="#4A3315" letter-spacing="1">DRAWER 2 -- ML/AI</text>
+      <rect x="500" y="184" width="96" height="11" rx="5.5" fill="#8A7A5E"/>
+      <circle cx="470" cy="189" r="5" fill="#140F0A" stroke="#8A7A5E" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="264" y="238" width="372" height="66" rx="4" fill="url(#drawer)" stroke="#6B563A" stroke-width="1"/>
+      <rect x="284" y="252" width="150" height="26" rx="2" fill="url(#manila)" stroke="#8A6B33" stroke-width="1"/>
+      <text x="292" y="270" font-size="12" fill="#4A3315" letter-spacing="1">DRAWER 3 -- SQL/BI</text>
+      <rect x="500" y="260" width="96" height="11" rx="5.5" fill="#8A7A5E"/>
+      <circle cx="470" cy="265" r="5" fill="#140F0A" stroke="#8A7A5E" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="264" y="314" width="372" height="46" rx="4" fill="url(#drawer)" stroke="#6B563A" stroke-width="1"/>
+      <rect x="284" y="324" width="150" height="24" rx="2" fill="url(#manila)" stroke="#8A6B33" stroke-width="1"/>
+      <text x="292" y="341" font-size="12" fill="#4A3315" letter-spacing="1">DRAWER 4 -- MISC.</text>
+      <rect x="500" y="331" width="96" height="10" rx="5" fill="#8A7A5E"/>
+    </g>
+  </g>
+
+  <!-- feet -->
+  <rect x="268" y="372" width="26" height="10" rx="3" fill="#211A11"/>
+  <rect x="606" y="372" width="26" height="10" rx="3" fill="#211A11"/>
+
+  <!-- name plate -->
+  <rect x="700" y="180" width="150" height="52" rx="4" fill="#2B2018" stroke="#C77E00" stroke-width="2"/>
+  <text x="775" y="204" text-anchor="middle" font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" font-size="14" fill="#FFB000" letter-spacing="2">V. PALANIVELU</text>
+  <text x="775" y="222" text-anchor="middle" font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" font-size="11" fill="#8A7A5E" letter-spacing="2">DEPT. 4407</text>
+
+  <!-- archive boxes on the floor -->
+  <g font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" font-size="10" letter-spacing="1">
+    <g transform="translate(46,300)">
+      <rect x="0" y="0" width="112" height="46" rx="2" fill="#B98E4F" stroke="#8A6B33" stroke-width="1.5"/>
+      <rect x="0" y="0" width="112" height="11" rx="2" fill="#C9A461" stroke="#8A6B33" stroke-width="1.5"/>
+      <rect x="38" y="20" width="36" height="7" rx="3" fill="#8A6B33"/>
+      <text x="10" y="42" fill="#5A431B">ARCHIVE 2023</text>
+    </g>
+    <g transform="translate(52,346)">
+      <rect x="0" y="0" width="112" height="36" rx="2" fill="#C9A461" stroke="#8A6B33" stroke-width="1.5"/>
+      <rect x="0" y="0" width="112" height="10" rx="2" fill="#D9B87A" stroke="#8A6B33" stroke-width="1.5"/>
+      <rect x="38" y="17" width="36" height="6" rx="3" fill="#8A6B33"/>
+      <text x="10" y="32" fill="#5A431B">ARCHIVE 2024</text>
+    </g>
+  </g>
+</svg>

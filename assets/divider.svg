@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="Perforated tractor-feed paper divider">
+  <defs>
+    <linearGradient id="strip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A2E20"/>
+      <stop offset="1" stop-color="#241C13"/>
+    </linearGradient>
+    <pattern id="sprocket" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="17" cy="9" r="4" fill="#140F0A"/>
+      <circle cx="17" cy="9" r="4" fill="none" stroke="#57462F" stroke-width="1"/>
+      <circle cx="17" cy="25" r="4" fill="#140F0A"/>
+      <circle cx="17" cy="25" r="4" fill="none" stroke="#57462F" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="34" fill="#140F0A"/>
+  <rect y="2" width="1000" height="30" rx="3" fill="url(#strip)"/>
+  <rect y="2" width="1000" height="30" rx="3" fill="none" stroke="#57462F" stroke-width="1"/>
+  <rect x="0" y="2" width="60" height="30" fill="url(#sprocket)"/>
+  <rect x="940" y="2" width="60" height="30" fill="url(#sprocket)"/>
+  <line x1="72" y1="17" x2="928" y2="17" stroke="#C77E00" stroke-width="1.5" stroke-dasharray="7 7" opacity="0.75"/>
+  <rect x="470" y="10" width="60" height="14" rx="7" fill="#140F0A"/>
+  <circle cx="486" cy="17" r="2.4" fill="#FFB000"/>
+  <circle cx="500" cy="17" r="2.4" fill="#C77E00"/>
+  <circle cx="514" cy="17" r="2.4" fill="#8A7A5E"/>
+</svg>

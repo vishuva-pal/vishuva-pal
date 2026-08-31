@@ -1,0 +1,725 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="IBM style punch card, Form 12-B annual attendance record for V. Palanivelu">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#F2E6C9"/><stop offset="1" stop-color="#DCCBA4"/>
+    </linearGradient>
+    <filter id="kdrop" x="-10%" y="-20%" width="125%" height="150%">
+      <feDropShadow dx="3" dy="7" stdDeviation="7" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="230" fill="#140F0A"/>
+  <g filter="url(#kdrop)"><path d="M46 20 H958 V210 H18 V44 Z" fill="url(#card)"/></g>
+  <path d="M46 20 H958 V210 H18 V44 Z" fill="none" stroke="#B9A87F" stroke-width="1.5"/>
+  <g font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" fill="#5A431B">
+    <text x="64" y="42" font-size="14" letter-spacing="3">FORM 12-B   ANNUAL ATTENDANCE RECORD   V. PALANIVELU   DEPT. 4407</text>
+    <text x="938" y="42" font-size="11" text-anchor="end" letter-spacing="2">DO NOT FOLD</text>
+    <text x="938" y="202" font-size="10" text-anchor="end" letter-spacing="2">RETAIN FOR YOUR RECORDS</text>
+  </g>
+  <line x1="30" y1="52" x2="958" y2="52" stroke="#C9A461" stroke-width="1"/>
+  <g font-family="ui-monospace,'DejaVu Sans Mono','Courier New',Courier,monospace" font-size="8" fill="#C9A461" text-anchor="middle" opacity="0.85">
+    <text x="44.0" y="77.4">0</text>
+    <text x="44.0" y="90.6">1</text>
+    <text x="44.0" y="103.8">2</text>
+    <text x="44.0" y="117.0">3</text>
+    <text x="44.0" y="130.2">4</text>
+    <text x="44.0" y="143.4">5</text>
+    <text x="44.0" y="156.6">6</text>
+    <text x="44.0" y="169.8">7</text>
+    <text x="44.0" y="183.0">8</text>
+    <text x="55.4" y="77.4">0</text>
+    <text x="55.4" y="90.6">1</text>
+    <text x="55.4" y="103.8">2</text>
+    <text x="55.4" y="143.4">5</text>
+    <text x="55.4" y="156.6">6</text>
+    <text x="55.4" y="169.8">7</text>
+    <text x="66.8" y="77.4">0</text>
+    <text x="66.8" y="103.8">2</text>
+    <text x="66.8" y="117.0">3</text>
+    <text x="66.8" y="130.2">4</text>
+    <text x="66.8" y="143.4">5</text>
+    <text x="78.2" y="77.4">0</text>
+    <text x="78.2" y="90.6">1</text>
+    <text x="78.2" y="103.8">2</text>
+    <text x="78.2" y="117.0">3</text>
+    <text x="78.2" y="130.2">4</text>
+    <text x="78.2" y="156.6">6</text>
+    <text x="78.2" y="169.8">7</text>
+    <text x="78.2" y="183.0">8</text>
+    <text x="89.6" y="77.4">0</text>
+    <text x="89.6" y="103.8">2</text>
+    <text x="89.6" y="117.0">3</text>
+    <text x="89.6" y="130.2">4</text>
+    <text x="89.6" y="143.4">5</text>
+    <text x="89.6" y="156.6">6</text>
+    <text x="89.6" y="169.8">7</text>
+    <text x="89.6" y="183.0">8</text>
+    <text x="101.0" y="77.4">0</text>
+    <text x="101.0" y="90.6">1</text>
+    <text x="101.0" y="103.8">2</text>
+    <text x="101.0" y="143.4">5</text>
+    <text x="101.0" y="156.6">6</text>
+    <text x="101.0" y="169.8">7</text>
+    <text x="101.0" y="183.0">8</text>
+    <text x="112.4" y="77.4">0</text>
+    <text x="112.4" y="90.6">1</text>
+    <text x="112.4" y="103.8">2</text>
+    <text x="112.4" y="117.0">3</text>
+    <text x="112.4" y="143.4">5</text>
+    <text x="112.4" y="156.6">6</text>
+    <text x="112.4" y="169.8">7</text>
+    <text x="112.4" y="183.0">8</text>
+    <text x="123.8" y="77.4">0</text>
+    <text x="123.8" y="103.8">2</text>
+    <text x="123.8" y="117.0">3</text>
+    <text x="123.8" y="130.2">4</text>
+    <text x="123.8" y="143.4">5</text>
+    <text x="123.8" y="156.6">6</text>
+    <text x="123.8" y="169.8">7</text>
+    <text x="123.8" y="183.0">8</text>
+    <text x="135.2" y="77.4">0</text>
+    <text x="135.2" y="90.6">1</text>
+    <text x="135.2" y="103.8">2</text>
+    <text x="135.2" y="117.0">3</text>
+    <text x="135.2" y="130.2">4</text>
+    <text x="135.2" y="156.6">6</text>
+    <text x="135.2" y="169.8">7</text>
+    <text x="135.2" y="183.0">8</text>
+    <text x="146.6" y="77.4">0</text>
+    <text x="146.6" y="90.6">1</text>
+    <text x="146.6" y="117.0">3</text>
+    <text x="146.6" y="143.4">5</text>
+    <text x="146.6" y="156.6">6</text>
+    <text x="146.6" y="169.8">7</text>
+    <text x="158.0" y="77.4">0</text>
+    <text x="158.0" y="90.6">1</text>
+    <text x="158.0" y="103.8">2</text>
+    <text x="158.0" y="117.0">3</text>
+    <text x="158.0" y="143.4">5</text>
+    <text x="158.0" y="156.6">6</text>
+    <text x="158.0" y="169.8">7</text>
+    <text x="158.0" y="183.0">8</text>
+    <text x="169.4" y="77.4">0</text>
+    <text x="169.4" y="90.6">1</text>
+    <text x="169.4" y="117.0">3</text>
+    <text x="169.4" y="130.2">4</text>
+    <text x="169.4" y="156.6">6</text>
+    <text x="169.4" y="183.0">8</text>
+    <text x="180.8" y="77.4">0</text>
+    <text x="180.8" y="90.6">1</text>
+    <text x="180.8" y="103.8">2</text>
+    <text x="180.8" y="117.0">3</text>
+    <text x="180.8" y="130.2">4</text>
+    <text x="180.8" y="143.4">5</text>
+    <text x="180.8" y="156.6">6</text>
+    <text x="180.8" y="169.8">7</text>
+    <text x="180.8" y="183.0">8</text>
+    <text x="192.2" y="90.6">1</text>
+    <text x="192.2" y="103.8">2</text>
+    <text x="192.2" y="117.0">3</text>
+    <text x="192.2" y="130.2">4</text>
+    <text x="192.2" y="143.4">5</text>
+    <text x="192.2" y="156.6">6</text>
+    <text x="203.6" y="90.6">1</text>
+    <text x="203.6" y="103.8">2</text>
+    <text x="203.6" y="117.0">3</text>
+    <text x="203.6" y="130.2">4</text>
+    <text x="203.6" y="143.4">5</text>
+    <text x="203.6" y="156.6">6</text>
+    <text x="203.6" y="183.0">8</text>
+    <text x="215.0" y="77.4">0</text>
+    <text x="215.0" y="103.8">2</text>
+    <text x="215.0" y="130.2">4</text>
+    <text x="215.0" y="143.4">5</text>
+    <text x="215.0" y="183.0">8</text>
+    <text x="226.4" y="77.4">0</text>
+    <text x="226.4" y="90.6">1</text>
+    <text x="226.4" y="103.8">2</text>
+    <text x="226.4" y="117.0">3</text>
+    <text x="226.4" y="130.2">4</text>
+    <text x="226.4" y="143.4">5</text>
+    <text x="226.4" y="156.6">6</text>
+    <text x="226.4" y="169.8">7</text>
+    <text x="226.4" y="183.0">8</text>
+    <text x="237.8" y="77.4">0</text>
+    <text x="237.8" y="90.6">1</text>
+    <text x="237.8" y="103.8">2</text>
+    <text x="237.8" y="117.0">3</text>
+    <text x="237.8" y="130.2">4</text>
+    <text x="237.8" y="143.4">5</text>
+    <text x="237.8" y="156.6">6</text>
+    <text x="237.8" y="169.8">7</text>
+    <text x="237.8" y="183.0">8</text>
+    <text x="249.2" y="77.4">0</text>
+    <text x="249.2" y="90.6">1</text>
+    <text x="249.2" y="103.8">2</text>
+    <text x="249.2" y="117.0">3</text>
+    <text x="249.2" y="130.2">4</text>
+    <text x="249.2" y="143.4">5</text>
+    <text x="249.2" y="156.6">6</text>
+    <text x="249.2" y="169.8">7</text>
+    <text x="249.2" y="183.0">8</text>
+    <text x="260.6" y="77.4">0</text>
+    <text x="260.6" y="117.0">3</text>
+    <text x="260.6" y="130.2">4</text>
+    <text x="260.6" y="143.4">5</text>
+    <text x="260.6" y="169.8">7</text>
+    <text x="260.6" y="183.0">8</text>
+    <text x="272.0" y="90.6">1</text>
+    <text x="272.0" y="117.0">3</text>
+    <text x="272.0" y="130.2">4</text>
+    <text x="272.0" y="143.4">5</text>
+    <text x="272.0" y="156.6">6</text>
+    <text x="272.0" y="169.8">7</text>
+    <text x="272.0" y="183.0">8</text>
+    <text x="283.4" y="90.6">1</text>
+    <text x="283.4" y="103.8">2</text>
+    <text x="283.4" y="117.0">3</text>
+    <text x="283.4" y="130.2">4</text>
+    <text x="283.4" y="143.4">5</text>
+    <text x="283.4" y="156.6">6</text>
+    <text x="283.4" y="183.0">8</text>
+    <text x="294.8" y="77.4">0</text>
+    <text x="294.8" y="90.6">1</text>
+    <text x="294.8" y="103.8">2</text>
+    <text x="294.8" y="117.0">3</text>
+    <text x="294.8" y="156.6">6</text>
+    <text x="294.8" y="169.8">7</text>
+    <text x="294.8" y="183.0">8</text>
+    <text x="306.2" y="90.6">1</text>
+    <text x="306.2" y="130.2">4</text>
+    <text x="306.2" y="143.4">5</text>
+    <text x="306.2" y="156.6">6</text>
+    <text x="306.2" y="169.8">7</text>
+    <text x="306.2" y="183.0">8</text>
+    <text x="317.6" y="77.4">0</text>
+    <text x="317.6" y="90.6">1</text>
+    <text x="317.6" y="117.0">3</text>
+    <text x="317.6" y="130.2">4</text>
+    <text x="317.6" y="143.4">5</text>
+    <text x="317.6" y="156.6">6</text>
+    <text x="317.6" y="169.8">7</text>
+    <text x="317.6" y="183.0">8</text>
+    <text x="329.0" y="77.4">0</text>
+    <text x="329.0" y="90.6">1</text>
+    <text x="329.0" y="103.8">2</text>
+    <text x="329.0" y="117.0">3</text>
+    <text x="329.0" y="130.2">4</text>
+    <text x="329.0" y="156.6">6</text>
+    <text x="329.0" y="169.8">7</text>
+    <text x="340.4" y="90.6">1</text>
+    <text x="340.4" y="103.8">2</text>
+    <text x="340.4" y="117.0">3</text>
+    <text x="340.4" y="130.2">4</text>
+    <text x="340.4" y="143.4">5</text>
+    <text x="340.4" y="156.6">6</text>
+    <text x="340.4" y="183.0">8</text>
+    <text x="351.8" y="77.4">0</text>
+    <text x="351.8" y="90.6">1</text>
+    <text x="351.8" y="103.8">2</text>
+    <text x="351.8" y="117.0">3</text>
+    <text x="351.8" y="130.2">4</text>
+    <text x="351.8" y="143.4">5</text>
+    <text x="351.8" y="169.8">7</text>
+    <text x="351.8" y="183.0">8</text>
+    <text x="363.2" y="77.4">0</text>
+    <text x="363.2" y="90.6">1</text>
+    <text x="363.2" y="103.8">2</text>
+    <text x="363.2" y="117.0">3</text>
+    <text x="363.2" y="130.2">4</text>
+    <text x="363.2" y="143.4">5</text>
+    <text x="363.2" y="183.0">8</text>
+    <text x="374.6" y="77.4">0</text>
+    <text x="374.6" y="90.6">1</text>
+    <text x="374.6" y="103.8">2</text>
+    <text x="374.6" y="117.0">3</text>
+    <text x="374.6" y="130.2">4</text>
+    <text x="374.6" y="143.4">5</text>
+    <text x="374.6" y="156.6">6</text>
+    <text x="374.6" y="169.8">7</text>
+    <text x="374.6" y="183.0">8</text>
+    <text x="386.0" y="77.4">0</text>
+    <text x="386.0" y="117.0">3</text>
+    <text x="386.0" y="130.2">4</text>
+    <text x="386.0" y="143.4">5</text>
+    <text x="386.0" y="156.6">6</text>
+    <text x="386.0" y="169.8">7</text>
+    <text x="386.0" y="183.0">8</text>
+    <text x="397.4" y="77.4">0</text>
+    <text x="397.4" y="90.6">1</text>
+    <text x="397.4" y="117.0">3</text>
+    <text x="397.4" y="130.2">4</text>
+    <text x="397.4" y="143.4">5</text>
+    <text x="397.4" y="156.6">6</text>
+    <text x="397.4" y="169.8">7</text>
+    <text x="397.4" y="183.0">8</text>
+    <text x="408.8" y="77.4">0</text>
+    <text x="408.8" y="90.6">1</text>
+    <text x="408.8" y="103.8">2</text>
+    <text x="408.8" y="117.0">3</text>
+    <text x="408.8" y="143.4">5</text>
+    <text x="408.8" y="156.6">6</text>
+    <text x="408.8" y="183.0">8</text>
+    <text x="420.2" y="77.4">0</text>
+    <text x="420.2" y="90.6">1</text>
+    <text x="420.2" y="103.8">2</text>
+    <text x="420.2" y="117.0">3</text>
+    <text x="420.2" y="130.2">4</text>
+    <text x="420.2" y="143.4">5</text>
+    <text x="420.2" y="156.6">6</text>
+    <text x="420.2" y="169.8">7</text>
+    <text x="431.6" y="77.4">0</text>
+    <text x="431.6" y="103.8">2</text>
+    <text x="431.6" y="117.0">3</text>
+    <text x="431.6" y="130.2">4</text>
+    <text x="431.6" y="156.6">6</text>
+    <text x="431.6" y="169.8">7</text>
+    <text x="431.6" y="183.0">8</text>
+    <text x="443.0" y="77.4">0</text>
+    <text x="443.0" y="90.6">1</text>
+    <text x="443.0" y="103.8">2</text>
+    <text x="443.0" y="117.0">3</text>
+    <text x="443.0" y="130.2">4</text>
+    <text x="443.0" y="143.4">5</text>
+    <text x="443.0" y="156.6">6</text>
+    <text x="443.0" y="169.8">7</text>
+    <text x="443.0" y="183.0">8</text>
+    <text x="454.4" y="77.4">0</text>
+    <text x="454.4" y="90.6">1</text>
+    <text x="454.4" y="103.8">2</text>
+    <text x="454.4" y="130.2">4</text>
+    <text x="454.4" y="156.6">6</text>
+    <text x="454.4" y="169.8">7</text>
+    <text x="465.8" y="77.4">0</text>
+    <text x="465.8" y="103.8">2</text>
+    <text x="465.8" y="117.0">3</text>
+    <text x="465.8" y="130.2">4</text>
+    <text x="465.8" y="143.4">5</text>
+    <text x="465.8" y="169.8">7</text>
+    <text x="465.8" y="183.0">8</text>
+    <text x="477.2" y="77.4">0</text>
+    <text x="477.2" y="90.6">1</text>
+    <text x="477.2" y="103.8">2</text>
+    <text x="477.2" y="117.0">3</text>
+    <text x="477.2" y="130.2">4</text>
+    <text x="477.2" y="143.4">5</text>
+    <text x="477.2" y="156.6">6</text>
+    <text x="477.2" y="169.8">7</text>
+    <text x="488.6" y="77.4">0</text>
+    <text x="488.6" y="90.6">1</text>
+    <text x="488.6" y="103.8">2</text>
+    <text x="488.6" y="117.0">3</text>
+    <text x="488.6" y="130.2">4</text>
+    <text x="488.6" y="143.4">5</text>
+    <text x="488.6" y="156.6">6</text>
+    <text x="488.6" y="169.8">7</text>
+    <text x="488.6" y="183.0">8</text>
+    <text x="500.0" y="90.6">1</text>
+    <text x="500.0" y="117.0">3</text>
+    <text x="500.0" y="130.2">4</text>
+    <text x="500.0" y="143.4">5</text>
+    <text x="500.0" y="156.6">6</text>
+    <text x="500.0" y="169.8">7</text>
+    <text x="500.0" y="183.0">8</text>
+    <text x="511.4" y="77.4">0</text>
+    <text x="511.4" y="117.0">3</text>
+    <text x="511.4" y="130.2">4</text>
+    <text x="511.4" y="143.4">5</text>
+    <text x="511.4" y="169.8">7</text>
+    <text x="511.4" y="183.0">8</text>
+    <text x="522.8" y="77.4">0</text>
+    <text x="522.8" y="90.6">1</text>
+    <text x="522.8" y="103.8">2</text>
+    <text x="522.8" y="117.0">3</text>
+    <text x="522.8" y="130.2">4</text>
+    <text x="522.8" y="143.4">5</text>
+    <text x="522.8" y="169.8">7</text>
+    <text x="534.2" y="77.4">0</text>
+    <text x="534.2" y="90.6">1</text>
+    <text x="534.2" y="103.8">2</text>
+    <text x="534.2" y="117.0">3</text>
+    <text x="534.2" y="130.2">4</text>
+    <text x="534.2" y="143.4">5</text>
+    <text x="534.2" y="156.6">6</text>
+    <text x="534.2" y="183.0">8</text>
+    <text x="545.6" y="77.4">0</text>
+    <text x="545.6" y="90.6">1</text>
+    <text x="545.6" y="117.0">3</text>
+    <text x="545.6" y="130.2">4</text>
+    <text x="545.6" y="143.4">5</text>
+    <text x="545.6" y="156.6">6</text>
+    <text x="545.6" y="183.0">8</text>
+    <text x="557.0" y="77.4">0</text>
+    <text x="557.0" y="90.6">1</text>
+    <text x="557.0" y="103.8">2</text>
+    <text x="557.0" y="117.0">3</text>
+    <text x="557.0" y="130.2">4</text>
+    <text x="557.0" y="143.4">5</text>
+    <text x="557.0" y="156.6">6</text>
+    <text x="557.0" y="169.8">7</text>
+    <text x="568.4" y="77.4">0</text>
+    <text x="568.4" y="90.6">1</text>
+    <text x="568.4" y="103.8">2</text>
+    <text x="568.4" y="117.0">3</text>
+    <text x="568.4" y="130.2">4</text>
+    <text x="568.4" y="143.4">5</text>
+    <text x="568.4" y="156.6">6</text>
+    <text x="568.4" y="169.8">7</text>
+    <text x="568.4" y="183.0">8</text>
+    <text x="579.8" y="90.6">1</text>
+    <text x="579.8" y="103.8">2</text>
+    <text x="579.8" y="117.0">3</text>
+    <text x="579.8" y="130.2">4</text>
+    <text x="579.8" y="143.4">5</text>
+    <text x="579.8" y="156.6">6</text>
+    <text x="579.8" y="183.0">8</text>
+    <text x="591.2" y="77.4">0</text>
+    <text x="591.2" y="90.6">1</text>
+    <text x="591.2" y="117.0">3</text>
+    <text x="591.2" y="130.2">4</text>
+    <text x="591.2" y="143.4">5</text>
+    <text x="591.2" y="156.6">6</text>
+    <text x="591.2" y="169.8">7</text>
+    <text x="591.2" y="183.0">8</text>
+    <text x="602.6" y="77.4">0</text>
+    <text x="602.6" y="90.6">1</text>
+    <text x="602.6" y="103.8">2</text>
+    <text x="602.6" y="143.4">5</text>
+    <text x="602.6" y="156.6">6</text>
+    <text x="602.6" y="169.8">7</text>
+    <text x="602.6" y="183.0">8</text>
+    <text x="614.0" y="77.4">0</text>
+    <text x="614.0" y="90.6">1</text>
+    <text x="614.0" y="130.2">4</text>
+    <text x="614.0" y="156.6">6</text>
+    <text x="625.4" y="90.6">1</text>
+    <text x="625.4" y="103.8">2</text>
+    <text x="625.4" y="130.2">4</text>
+    <text x="625.4" y="143.4">5</text>
+    <text x="625.4" y="156.6">6</text>
+    <text x="625.4" y="169.8">7</text>
+    <text x="636.8" y="77.4">0</text>
+    <text x="636.8" y="90.6">1</text>
+    <text x="636.8" y="103.8">2</text>
+    <text x="636.8" y="117.0">3</text>
+    <text x="636.8" y="130.2">4</text>
+    <text x="636.8" y="143.4">5</text>
+    <text x="636.8" y="156.6">6</text>
+    <text x="636.8" y="169.8">7</text>
+    <text x="648.2" y="77.4">0</text>
+    <text x="648.2" y="90.6">1</text>
+    <text x="648.2" y="103.8">2</text>
+    <text x="648.2" y="117.0">3</text>
+    <text x="648.2" y="130.2">4</text>
+    <text x="648.2" y="143.4">5</text>
+    <text x="648.2" y="156.6">6</text>
+    <text x="648.2" y="183.0">8</text>
+    <text x="659.6" y="77.4">0</text>
+    <text x="659.6" y="90.6">1</text>
+    <text x="659.6" y="117.0">3</text>
+    <text x="659.6" y="130.2">4</text>
+    <text x="659.6" y="143.4">5</text>
+    <text x="659.6" y="156.6">6</text>
+    <text x="659.6" y="169.8">7</text>
+    <text x="659.6" y="183.0">8</text>
+    <text x="671.0" y="77.4">0</text>
+    <text x="671.0" y="103.8">2</text>
+    <text x="671.0" y="117.0">3</text>
+    <text x="671.0" y="130.2">4</text>
+    <text x="671.0" y="143.4">5</text>
+    <text x="671.0" y="156.6">6</text>
+    <text x="671.0" y="169.8">7</text>
+    <text x="682.4" y="77.4">0</text>
+    <text x="682.4" y="90.6">1</text>
+    <text x="682.4" y="103.8">2</text>
+    <text x="682.4" y="117.0">3</text>
+    <text x="682.4" y="130.2">4</text>
+    <text x="682.4" y="143.4">5</text>
+    <text x="682.4" y="183.0">8</text>
+    <text x="693.8" y="77.4">0</text>
+    <text x="693.8" y="90.6">1</text>
+    <text x="693.8" y="103.8">2</text>
+    <text x="693.8" y="117.0">3</text>
+    <text x="693.8" y="130.2">4</text>
+    <text x="693.8" y="143.4">5</text>
+    <text x="693.8" y="156.6">6</text>
+    <text x="693.8" y="169.8">7</text>
+    <text x="693.8" y="183.0">8</text>
+    <text x="705.2" y="77.4">0</text>
+    <text x="705.2" y="90.6">1</text>
+    <text x="705.2" y="103.8">2</text>
+    <text x="705.2" y="130.2">4</text>
+    <text x="705.2" y="143.4">5</text>
+    <text x="705.2" y="156.6">6</text>
+    <text x="705.2" y="169.8">7</text>
+    <text x="705.2" y="183.0">8</text>
+    <text x="716.6" y="90.6">1</text>
+    <text x="716.6" y="103.8">2</text>
+    <text x="716.6" y="117.0">3</text>
+    <text x="716.6" y="130.2">4</text>
+    <text x="716.6" y="143.4">5</text>
+    <text x="716.6" y="156.6">6</text>
+    <text x="716.6" y="169.8">7</text>
+    <text x="716.6" y="183.0">8</text>
+    <text x="728.0" y="77.4">0</text>
+    <text x="728.0" y="103.8">2</text>
+    <text x="728.0" y="117.0">3</text>
+    <text x="728.0" y="143.4">5</text>
+    <text x="728.0" y="169.8">7</text>
+    <text x="728.0" y="183.0">8</text>
+    <text x="739.4" y="77.4">0</text>
+    <text x="739.4" y="90.6">1</text>
+    <text x="739.4" y="103.8">2</text>
+    <text x="739.4" y="130.2">4</text>
+    <text x="739.4" y="143.4">5</text>
+    <text x="739.4" y="169.8">7</text>
+    <text x="739.4" y="183.0">8</text>
+    <text x="750.8" y="77.4">0</text>
+    <text x="750.8" y="90.6">1</text>
+    <text x="750.8" y="103.8">2</text>
+    <text x="750.8" y="117.0">3</text>
+    <text x="750.8" y="143.4">5</text>
+    <text x="750.8" y="169.8">7</text>
+    <text x="750.8" y="183.0">8</text>
+    <text x="762.2" y="77.4">0</text>
+    <text x="762.2" y="90.6">1</text>
+    <text x="762.2" y="103.8">2</text>
+    <text x="762.2" y="117.0">3</text>
+    <text x="762.2" y="130.2">4</text>
+    <text x="762.2" y="143.4">5</text>
+    <text x="762.2" y="156.6">6</text>
+    <text x="762.2" y="169.8">7</text>
+    <text x="762.2" y="183.0">8</text>
+    <text x="773.6" y="77.4">0</text>
+    <text x="773.6" y="90.6">1</text>
+    <text x="773.6" y="103.8">2</text>
+    <text x="773.6" y="117.0">3</text>
+    <text x="773.6" y="130.2">4</text>
+    <text x="773.6" y="143.4">5</text>
+    <text x="773.6" y="156.6">6</text>
+    <text x="785.0" y="77.4">0</text>
+    <text x="785.0" y="90.6">1</text>
+    <text x="785.0" y="103.8">2</text>
+    <text x="785.0" y="117.0">3</text>
+    <text x="785.0" y="130.2">4</text>
+    <text x="785.0" y="143.4">5</text>
+    <text x="785.0" y="156.6">6</text>
+    <text x="785.0" y="169.8">7</text>
+    <text x="785.0" y="183.0">8</text>
+    <text x="796.4" y="77.4">0</text>
+    <text x="796.4" y="90.6">1</text>
+    <text x="796.4" y="103.8">2</text>
+    <text x="796.4" y="117.0">3</text>
+    <text x="796.4" y="130.2">4</text>
+    <text x="796.4" y="143.4">5</text>
+    <text x="796.4" y="156.6">6</text>
+    <text x="796.4" y="169.8">7</text>
+    <text x="796.4" y="183.0">8</text>
+    <text x="807.8" y="77.4">0</text>
+    <text x="807.8" y="90.6">1</text>
+    <text x="807.8" y="103.8">2</text>
+    <text x="807.8" y="117.0">3</text>
+    <text x="807.8" y="130.2">4</text>
+    <text x="807.8" y="156.6">6</text>
+    <text x="807.8" y="169.8">7</text>
+    <text x="807.8" y="183.0">8</text>
+    <text x="819.2" y="77.4">0</text>
+    <text x="819.2" y="90.6">1</text>
+    <text x="819.2" y="117.0">3</text>
+    <text x="819.2" y="130.2">4</text>
+    <text x="819.2" y="143.4">5</text>
+    <text x="819.2" y="156.6">6</text>
+    <text x="819.2" y="169.8">7</text>
+    <text x="819.2" y="183.0">8</text>
+    <text x="830.6" y="77.4">0</text>
+    <text x="830.6" y="90.6">1</text>
+    <text x="830.6" y="117.0">3</text>
+    <text x="830.6" y="130.2">4</text>
+    <text x="830.6" y="143.4">5</text>
+    <text x="830.6" y="156.6">6</text>
+    <text x="830.6" y="169.8">7</text>
+    <text x="842.0" y="77.4">0</text>
+    <text x="842.0" y="90.6">1</text>
+    <text x="842.0" y="103.8">2</text>
+    <text x="842.0" y="117.0">3</text>
+    <text x="842.0" y="143.4">5</text>
+    <text x="842.0" y="156.6">6</text>
+    <text x="842.0" y="183.0">8</text>
+    <text x="853.4" y="77.4">0</text>
+    <text x="853.4" y="90.6">1</text>
+    <text x="853.4" y="103.8">2</text>
+    <text x="853.4" y="117.0">3</text>
+    <text x="853.4" y="130.2">4</text>
+    <text x="853.4" y="143.4">5</text>
+    <text x="853.4" y="156.6">6</text>
+    <text x="853.4" y="169.8">7</text>
+    <text x="853.4" y="183.0">8</text>
+    <text x="864.8" y="90.6">1</text>
+    <text x="864.8" y="103.8">2</text>
+    <text x="864.8" y="117.0">3</text>
+    <text x="864.8" y="130.2">4</text>
+    <text x="864.8" y="156.6">6</text>
+    <text x="864.8" y="169.8">7</text>
+    <text x="876.2" y="77.4">0</text>
+    <text x="876.2" y="90.6">1</text>
+    <text x="876.2" y="103.8">2</text>
+    <text x="876.2" y="130.2">4</text>
+    <text x="876.2" y="143.4">5</text>
+    <text x="876.2" y="156.6">6</text>
+    <text x="876.2" y="169.8">7</text>
+    <text x="876.2" y="183.0">8</text>
+    <text x="887.6" y="77.4">0</text>
+    <text x="887.6" y="90.6">1</text>
+    <text x="887.6" y="103.8">2</text>
+    <text x="887.6" y="117.0">3</text>
+    <text x="887.6" y="130.2">4</text>
+    <text x="887.6" y="143.4">5</text>
+    <text x="887.6" y="156.6">6</text>
+    <text x="887.6" y="169.8">7</text>
+    <text x="887.6" y="183.0">8</text>
+    <text x="899.0" y="77.4">0</text>
+    <text x="899.0" y="103.8">2</text>
+    <text x="899.0" y="130.2">4</text>
+    <text x="899.0" y="156.6">6</text>
+    <text x="899.0" y="169.8">7</text>
+    <text x="899.0" y="183.0">8</text>
+    <text x="910.4" y="117.0">3</text>
+    <text x="910.4" y="130.2">4</text>
+    <text x="910.4" y="143.4">5</text>
+    <text x="910.4" y="156.6">6</text>
+    <text x="910.4" y="169.8">7</text>
+    <text x="910.4" y="183.0">8</text>
+    <text x="921.8" y="77.4">0</text>
+    <text x="921.8" y="90.6">1</text>
+    <text x="921.8" y="103.8">2</text>
+    <text x="921.8" y="117.0">3</text>
+    <text x="921.8" y="130.2">4</text>
+    <text x="921.8" y="143.4">5</text>
+    <text x="921.8" y="156.6">6</text>
+    <text x="921.8" y="183.0">8</text>
+  </g>
+  <g fill="#241C13">
+    <rect x="52.0" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="52.0" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="52.0" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="63.4" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="63.4" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="63.4" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="63.4" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="74.8" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="86.2" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="97.6" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="97.6" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="109.0" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="120.4" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="131.8" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="143.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="143.2" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="143.2" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="154.6" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="166.0" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="166.0" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="166.0" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="188.8" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="188.8" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="188.8" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="200.2" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="200.2" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="211.6" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="211.6" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="211.6" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="211.6" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="257.2" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="257.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="257.2" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="268.6" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="268.6" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="280.0" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="280.0" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="291.4" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="291.4" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="302.8" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="302.8" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="302.8" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="314.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="325.6" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="325.6" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="337.0" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="337.0" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="348.4" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="359.8" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="359.8" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="382.6" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="382.6" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="394.0" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="405.4" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="405.4" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="416.8" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="428.2" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="428.2" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="451.0" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="451.0" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="451.0" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="462.4" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="462.4" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="473.8" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="496.6" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="496.6" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="508.0" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="508.0" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="508.0" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="519.4" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="519.4" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="530.8" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="542.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="542.2" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="553.6" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="576.4" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="576.4" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="587.8" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="599.2" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="599.2" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="610.6" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="610.6" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="610.6" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="610.6" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="610.6" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="622.0" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="622.0" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="622.0" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="633.4" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="644.8" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="656.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="667.6" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="667.6" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="679.0" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="679.0" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="701.8" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="713.2" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="724.6" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="724.6" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="724.6" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="736.0" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="736.0" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="747.4" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="747.4" y="148.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="770.2" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="770.2" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="804.4" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="815.8" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="827.2" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="827.2" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="838.6" y="122.2" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="838.6" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="861.4" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="861.4" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="861.4" y="175.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="872.8" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="895.6" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="895.6" y="109.0" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="895.6" y="135.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="907.0" y="69.4" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="907.0" y="82.6" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="907.0" y="95.8" width="6.8" height="9.2" rx="1.6"/>
+    <rect x="918.4" y="161.8" width="6.8" height="9.2" rx="1.6"/>
+  </g>
+</svg>
